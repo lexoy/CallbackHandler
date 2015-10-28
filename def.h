@@ -1,11 +1,8 @@
 /*******************************************************************
  *  Copyleft(c) 2015 under LGPL license
  *   
- *  FileName         : Callback_Handler.h
- *  BriefDescription : CallbackHandler is a template library 
-                       which is regisiter and management Callbacks
-                       whether it is C-Style(function-ptr) or
-                       Cpp-Style(member-function-ptr).
+ *  FileName         : def.h
+ *  BriefDescription : Common define to Callback_Handler.h.
  *  
  *  CreateDate  : 2015 / 10 /28
  *  Author      : lexo
@@ -19,5 +16,3 @@
  ******************************************************************/
 
 #pragma once
-
-#include "def.h"
